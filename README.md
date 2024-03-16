@@ -1,4 +1,4 @@
-Deedy-Resume
+Ranjith - resume
 =========================
 
 A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
@@ -18,11 +18,10 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 ## Preview
 
 ### OpenFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
+![Ranjith Resume sceernshot](https://github.com/ranjith-sa/Resume/assets/138657794/9cb09a1d-bda5-429a-a792-07e4fa4b3782)
 
 ### MacFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
-
+![Ranjith Resume sceernshot](https://github.com/ranjith-sa/Resume/assets/138657794/9cb09a1d-bda5-429a-a792-07e4fa4b3782)
 ## Dependencies
 
 1. Compiles only with **XeTeX** and required **BibTex** for compiling publications and the .bib filetype.
